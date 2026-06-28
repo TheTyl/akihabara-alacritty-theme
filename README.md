@@ -1,5 +1,7 @@
 # Akihabara: Alacritty
 
+![Screenshot](screenshot.png)
+
 ## Usage
 
 Download the [akihabara.toml](https://github.com/TheTyl/akihabara-alacritty-theme/blob/main/akihabara.toml) file to a directory of your choice.
